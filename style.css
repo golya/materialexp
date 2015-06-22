@@ -30,3 +30,11 @@ md-grid-tile {
     background: rgb(244, 111, 119);
     padding: 20px;
 }
+
+.message{
+    padding: 50px;
+}
+
+.messages {
+    max-height: 300px;
+}
